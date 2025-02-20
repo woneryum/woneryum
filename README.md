@@ -29,5 +29,3 @@
 
 <h3 align="left">Destek:</h3>
 <p> <a href="https://www.buymeacoffee.com/woneryum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woneryum" /></a> </p><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woneryum&label=Profile%20views&color=0e75b6&style=flat" alt="woneryum" /> </p>

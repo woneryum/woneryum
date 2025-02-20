@@ -1,8 +1,6 @@
 <h1 align="center">merhaba 👋, ben woneryum</h1>
 <h3 align="center">Çalışkan ve hedefe odaklı bir bireysel olarak, bilgisayar mühendisliği alanında kariyer yapmayı hedefliyorum. Şu anda aktif olarak çalışıyor ve edindiğim iş tecrübeleriyle sorumluluk alma, problem çözme ve analitik düşünme yeteneğini geliştiriyorum. Sosyal bir yapıya sahip olmasam da, küresel etkili iletişim kurabilme becerisine sahibim. Teknolojiye olan ilgimin yanı, zaman zaman kitap okuyarak ayrıcalıklı sıra farklı bakış açılarıyla beslemeyi de önemsiyorum. Gelecekte, teknik bilgi birikimini artıran güçlü projelere imza atmayı ve alanda uzmanlaşmayı hedefliyorum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woneryum&label=Profile%20views&color=0e75b6&style=flat" alt="woneryum" /> </p>
-
 <h3 align="left">Bağlan ben:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/woneryum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="woneryum" height="25" width="35"/></a>
@@ -31,3 +29,5 @@
 
 <h3 align="left">Destek:</h3>
 <p> <a href="https://www.buymeacoffee.com/woneryum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woneryum" /></a> </p><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=woneryum&label=Profile%20views&color=0e75b6&style=flat" alt="woneryum" /> </p>

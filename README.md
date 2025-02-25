@@ -31,4 +31,4 @@
 <p> <a href="https://www.buymeacoffee.com/woneryum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woneryum" /></a> </p><br><br>
 
 
-![snake gif](https://github.com/woneryum/woneryum/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)

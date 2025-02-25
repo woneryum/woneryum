@@ -29,3 +29,6 @@
 
 <h3 align="left">Destek:</h3>
 <p> <a href="https://www.buymeacoffee.com/woneryum"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woneryum" /></a> </p><br><br>
+
+
+![snake gif](https://github.com/woneryum/woneryum/blob/output/github-contribution-grid-snake.gif)

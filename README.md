@@ -1,3 +1,7 @@
+<img src="[http://url/to/img.png](https://media.licdn.com/dms/image/v2/D4D3DAQE2-KQXXmq0Jg/image-scale_191_1128/image-scale_191_1128/0/1728595170236/wonex_software_cover?e=1741651200&v=beta&t=81hZUSrWl_GPWEJeh1jN7jRWCGTMN42gzuldf0CHoMQ)" alt="alt text" width="320" height="180">
+
+
+
 <h1 align="center">merhaba 👋, ben woneryum</h1>
 <h3 align="center">Çalışkan ve hedefe odaklı bir bireysel olarak, bilgisayar mühendisliği alanında kariyer yapmayı hedefliyorum. Şu anda aktif olarak çalışıyor ve edindiğim iş tecrübeleriyle sorumluluk alma, problem çözme ve analitik düşünme yeteneğini geliştiriyorum. Sosyal bir yapıya sahip olmasam da, küresel etkili iletişim kurabilme becerisine sahibim. Teknolojiye olan ilgimin yanı, zaman zaman kitap okuyarak ayrıcalıklı sıra farklı bakış açılarıyla beslemeyi de önemsiyorum. Gelecekte, teknik bilgi birikimini artıran güçlü projelere imza atmayı ve alanda uzmanlaşmayı hedefliyorum.</h3>
 
